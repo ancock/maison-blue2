@@ -3,8 +3,8 @@
    ========================================================= */
 
 /* 1) NUR DIESE BEIDEN WERTE ÄNDERN */
-const SUPABASE_URL = "DEINE_SUPABASE_PROJECT_URL";
-const SUPABASE_ANON_KEY = "DEIN_SUPABASE_ANON_ODER_PUBLISHABLE_KEY";
+const SUPABASE_URL = "https://vtyrairrvwzuntxiqfjd.supabase.co";
+const SUPABASE_ANON_KEY = "sb_publishable_eMjTQA9p4cZ6vwZ4mju2OA_963Ljp8s";
 
 /* 2) Supabase Client */
 const supabaseReady =
